@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int nCr(int n, int r) {
+    if(r == 0 || r == n)
+        return 1;
+    else
+        return nCr(n-1, r-1) + nCr(n-1, r);
+}
+
+int main() {
+    int n, r, result;
+
+    printf("Enter values of n and r: ");
+    scanf("%d %d", &n, &r);
+
+    if(n > r && r >= 0) {
+        result = nCr(n, r);
+        printf("nCr = %d", result);
+    } else {
+        printf("Invalid input (n should be greater than r)");
+    }
+   return 0;
+  }
