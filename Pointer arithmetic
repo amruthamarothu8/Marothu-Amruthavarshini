@@ -6,7 +6,7 @@ int main() {
     int i;
 
     ptr = arr;  
-
+    printf("25331A05I1\n");
     printf("Array elements using pointer arithmetic:\n");
 
     for(i = 0; i < 5; i++) {
