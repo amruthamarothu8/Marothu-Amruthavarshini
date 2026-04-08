@@ -3,6 +3,7 @@
 int main()
 {
     int num, digit, sum = 0;
+    printf("25331A05I1\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     while (num > 0)
