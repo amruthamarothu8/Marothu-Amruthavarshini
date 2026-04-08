@@ -2,7 +2,7 @@
 
 int main() {
     int num, original, rem, rev = 0;
-
+    printf("25331A05I1\n");
     printf("Enter a number: ");
     scanf("%d", &num);
 
