@@ -9,7 +9,7 @@ int nCr(int n, int r) {
 
 int main() {
     int n, r, result;
-
+    printf("25331A05I1\n");
     printf("Enter values of n and r: ");
     scanf("%d %d", &n, &r);
 
