@@ -2,7 +2,7 @@
 
 int main() {
     char user name[7];
-    
+    printf("25331A05I1\n");
     printf("Enter your name: ");
     scanf("%s", user name);
     
