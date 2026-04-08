@@ -16,7 +16,7 @@ int checkPrime(int n) {
 
 int main() {
     int num, result;
-
+    printf("25331A05I1");
     printf("Enter a number: ");
     scanf("%d", &num);
 
