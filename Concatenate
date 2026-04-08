@@ -4,6 +4,7 @@
 int main() {
     char str1[100], str2[100], str3[100];
     int result, length;
+    printf("25331A05I1\n");
     printf("Enter first string: ");
     scanf("%s", str1);
     printf("Enter second string: ");
