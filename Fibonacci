@@ -3,7 +3,7 @@
 int main() {
     int n, i;
     int a = 0, b = 1, next;
-
+    printf("25331A05I1\n");
     printf("Enter number of terms: ");
     scanf("%d", &n);
 
