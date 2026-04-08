@@ -3,7 +3,7 @@
 int main() {
     char str[100];
     int i, count = 0;
-
+    printf("25331A05I1\n");
     printf("Enter a string: ");
     scanf("%s", str);
 
