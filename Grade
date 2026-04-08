@@ -3,7 +3,7 @@
 int main()
 {
     int marks;
-
+    printf("25331A05I1\n");
     printf("Enter student marks : ");
     scanf("%d", &marks);
 
