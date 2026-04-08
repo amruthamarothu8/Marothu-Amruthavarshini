@@ -4,6 +4,7 @@
 int main() {
     int n, i;
     int *ptr1, *ptr2;
+    printf("25331A05I1\n");
     printf("Enter number of elements: ");
     scanf("%d", &n);
     ptr1 = (int*) malloc(n * sizeof(int));
