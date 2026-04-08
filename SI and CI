@@ -3,7 +3,7 @@
 
 int main() {
     float p, r, t, si, ci, amount;
-
+    printf("25331A05I1\n");
     printf("Enter principal, rate and time: ");
     scanf("%f %f %f", &p, &r, &t);
 
